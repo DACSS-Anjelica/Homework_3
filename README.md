@@ -4,9 +4,14 @@ This project solves a diet optimization problem using linear programming. The go
 
 The problem is modeled and solved using **PuLP** in Python.
 
+**Rendered website:**  
+https://dacss-anjelica.github.io/Homework_3/
+
 ---
 
 ## Problem Overview
+
+---
 
 Two vitamin supplements are available:
 
